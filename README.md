@@ -7,7 +7,7 @@
 
 MMKV is an **efficient**, **small**, **easy-to-use** mobile key-value storage framework used in the WeChat application. It's currently available on **Android**, **iOS/macOS**, **Windows**, **POSIX** and **HarmonyOS NEXT**.
 
-# MMKV for Android
+# MMKV for Android.
 
 ## Features
 
@@ -355,3 +355,4 @@ Check out the [FAQ](https://github.com/Tencent/MMKV/wiki/FAQ) first. Should ther
 
 ## Personal Information Protection Rules
 User privacy is taken very seriously: MMKV does not obtain, collect or upload any personal information. Please refer to the [MMKV SDK Personal Information Protection Rules](https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/aY5BAtRiO1BpoHxo) for details.
+
